@@ -5,5 +5,6 @@ public class Gulsah {
         String word= "Group18";
         System.out.println(word.charAt(0));
         System.out.println(word);
+        System.out.println();
     }
 }
