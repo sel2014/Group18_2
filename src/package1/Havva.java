@@ -2,6 +2,6 @@ package package1;
 
 public class Havva {
     public static void main(String[] args) {
-        System.out.println("Havva Dmirel");
+        System.out.println("Havva Demirel");
     }
 }
