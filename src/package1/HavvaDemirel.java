@@ -1,7 +1,7 @@
 package package1;
 
-public class Havva {
+public class HavvaDemirel {
     public static void main(String[] args) {
-        System.out.println("Havva Dem irel");
+        System.out.println("hello");
     }
 }
